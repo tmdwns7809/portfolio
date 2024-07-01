@@ -58,5 +58,9 @@
 
 <br/><br/>
 
-6. 미래인재 육성재단
-   http://www.sffl.or.kr/
+7. 미래인재 육성재단 (http://www.sffl.or.kr/)
+   > [학생회 회장][가온회]
+   > [소식지][소식지]
+
+[가온회]: https://github.com/tmdwns7809/portfolio/blob/main/%EB%AF%B8%EB%9E%98%EC%9D%B8%EC%9E%AC%20%EC%9C%A1%EC%84%B1%EC%9E%AC%EB%8B%A8/%EA%B0%80%EC%98%A8%ED%9A%8C.JPG "가온회"
+[소식지]: https://github.com/tmdwns7809/portfolio/blob/main/%EB%AF%B8%EB%9E%98%EC%9D%B8%EC%9E%AC%20%EC%9C%A1%EC%84%B1%EC%9E%AC%EB%8B%A8/%EC%86%8C%EC%8B%9D%EC%A7%80.pdf "소식지"
